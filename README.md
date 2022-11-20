@@ -1,1 +1,1 @@
-Hello world
+This is just a training repoistory to learn git.
